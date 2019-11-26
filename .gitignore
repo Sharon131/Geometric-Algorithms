@@ -1,0 +1,6 @@
+*.pdf
+*.zip
+*.py
+*.txt
+.idea/
+.ipynb_checkpoints/
