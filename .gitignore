@@ -2,5 +2,6 @@
 *.zip
 *.py
 *.txt
+*.json
 .idea/
 .ipynb_checkpoints/
