@@ -3,5 +3,6 @@
 *.py
 *.txt
 *.json
+*.png
 .idea/
 .ipynb_checkpoints/
